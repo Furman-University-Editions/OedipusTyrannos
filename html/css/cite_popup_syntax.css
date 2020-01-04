@@ -1,0 +1,78 @@
+
+
+p.node-name, p.node-desc {
+    margin: 0;
+    padding: 3px;
+}
+
+p.node-name {
+  font-size: 20pt;
+  font-weight: 600;
+  color: rgb(157, 0, 0);
+}
+
+p.node-desc {
+    color: #999;
+}
+
+/* Open links */
+
+.open-syntax-modal {
+  margin-bottom: 5em;
+}
+.open-syntax-modal:hover {
+    background-color: #ccc;
+}
+.open-syntax-modal:active {
+    background-color: yellow;
+}
+
+/* Modal Windows */
+.modal-content {
+    border: 2px solid rgb(97,97,97);
+    padding: 1em;
+    margin: 1em;
+    border-radius: 30px;
+    position: fixed;
+    overflow: scroll;
+    max-height: 85%;
+    top: 10px;
+    background-color: rgba(255, 255, 255, 0.95);
+    width: 80%;
+    -webkit-box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75);
+}
+
+/* The Close Button */
+.syntax_close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0.5em 1em;
+  padding: 0px 3px 12px 8px;
+  border: 4px solid black;
+  border-radius: 30px;
+  height: 20px;
+  width: 20px;
+}
+
+.syntax_close:hover,
+.syntax_close:focus {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0.5em 1em;
+  padding: 0px 3px 12px 8px;
+  border: 4px solid red;
+  border-radius: 30px;
+  height: 20px;
+  width: 20px;
+  background-color: black;
+}
+
+.Treant, .Trean-loaded {
+  overflow: scroll;
+}
+

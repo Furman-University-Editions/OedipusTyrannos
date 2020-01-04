@@ -1,0 +1,26 @@
+div.cite_showhide_header  {
+  cursor: pointer;
+  background-color: #fff;
+  padding-left: 24px;
+  position: relative;
+  margin: 6px;
+  padding: 3px 0 3px 25px;
+}
+
+div.cite_showhide_header:after {
+  content: '▸';
+  position: absolute;
+  left: 6px;
+  top: 17px;
+  opacity: 0.5;
+  font-size: 20px;
+}
+div.cite_showhide_open:after {
+  content: '▾';
+}
+
+div.cite_showhide_header + * {
+  background-color: #eee;
+  margin-left: 2em;
+  margin-right: 1em;
+}

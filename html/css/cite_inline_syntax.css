@@ -1,0 +1,43 @@
+
+
+.cite_urn {
+	color: navy;
+	font-family: "Lucida Sans Typewriter", Monaco, Monospace;
+	font-size: 85%;
+	margin: 0 1em 0 1em;
+	padding: 2px;
+    display: none;
+}
+
+.ohco2_token {
+    display: inline-block;
+}
+
+.cite_inline_syntax {
+    border-bottom: 6px solid rgba(255,255,255,0.1);
+}
+
+.inline_syntax_focus {
+    border-bottom: 6px solid rgba(255,255,0,1);
+}
+.inline_syntax_head1 {
+    border-bottom: 6px solid rgba(255, 0, 0, 0.75);
+}
+.inline_syntax_head2 {
+    border-bottom: 6px solid rgba(255, 0, 0, 0.45);
+}
+.inline_syntax_head3 {
+    border-bottom: 6px solid rgba(255, 0, 0, 0.125);
+}
+.inline_syntax_tail {
+    border-bottom: 6px solid rgba(0, 255, 0, 0.75);
+}
+
+
+/*
+.cite_urn:hover {
+	background-color: #ddd;
+}
+*/
+
+
