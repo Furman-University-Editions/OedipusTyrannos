@@ -23,7 +23,7 @@ I made this both to serve as a text for an upper-level Greek class at Furman, in
 ## Contents
 
 - `cex/` contains a CEX file with an Edition and two Analytical Exemplars of the *OT*. It also conains a greatly abridged CEX file for testing.
-- `html/` contains all necessary CSS and JS files. When pages are generated, they go in `html/pages/`.
+- `html/` contains all necessary CSS and JS files. If you have cloned this repo, double-click on `html/pages/index.html` to read Sophocles.
 
 ## Building
 
