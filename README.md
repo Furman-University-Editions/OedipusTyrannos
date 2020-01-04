@@ -20,8 +20,11 @@ The comprehensive syntactic analysis of Sophocles’ play was done by <b>Frances
 
 I made this both to serve as a text for an upper-level Greek class at Furman, in Spring of 2020, and as a test-bed for developing some generic tools and frameworks for the [CITE Arcitecture](http://cite-architecture.org), and for solving some problems with canonically citable texts of drama. A blog post or article describing the details will be forthcoming. — CWB 1/3/2020.
 
-## Contents and Building
+## Contents
 
 - `cex/` contains a CEX file with an Edition and two Analytical Exemplars of the *OT*. It also conains a greatly abridged CEX file for testing.
 - `html/` contains all necessary CSS and JS files. When pages are generated, they go in `html/pages/`.
 
+## Building
+
+The source code and data for building this site is in a [separate Git Repository](https://github.com/Eumaeus/Oedipus_2019).
