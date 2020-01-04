@@ -1,4 +1,4 @@
-# Sophocles *Oedipus Tyrannos*
+# Sophocles’ *Oedipus Tyrannos*
 
 ## Online Text
 
