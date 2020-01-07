@@ -6,7 +6,7 @@
 
 ## Version 
 
-**v.1.1.0**. Status: active development; see `releases.md`.
+**v.1.2.0**. Status: active development; see `releases.md`.
 
 ## Overview
 

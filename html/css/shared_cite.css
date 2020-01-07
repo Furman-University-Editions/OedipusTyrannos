@@ -69,7 +69,7 @@ div.small_print {
 	font-weight: 300;
 	font-size: 12pt;
 	line-height: 1.3;
-	color: 582c83;
+	color: #201547;
 }
 
 
@@ -77,11 +77,46 @@ body {
 	margin: 0;
 }
 
+	
+
+progress {
+	width: 400px;
+	height: 14px;
+	margin: 50px auto;
+	display: block;
+	/* Important Thing */
+	-webkit-appearance: none;
+	border: none;
+}
+
+/* All good till now. Now we'll style the background */
+progress::-webkit-progress-bar {
+	background: #a4a8aa;
+	border-radius: 50px;
+	padding: 2px;
+	box-shadow: 0 1px 0px 0 rgba(255, 255, 255, 0.2);
+}
+
+
+/* Now the value part */
+progress::-webkit-progress-value {
+	border-radius: 50px;
+	box-shadow: inset 0 1px 1px 0 rgba(255, 255, 255, 0.4);
+	background:
+		-webkit-linear-gradient(top, rgba(255, 255, 255, 0.6), rgba(0, 0, 0, 0.2)),
+		-webkit-linear-gradient(left, #582c83, #201547 ); 
+	/* Looks great, now animating it */
+	background-size: 25px 14px, 100% 100%, 100% 100%;
+	-webkit-animation: move 5s linear 0 infinite;
+}
+
+
+
 
 
 article {
 	background-color: white;
-	border: 1px solid #582C83;
+	border: 2px solid #201547;
 	padding: 1em;
 	margin-top: 1em;
 }

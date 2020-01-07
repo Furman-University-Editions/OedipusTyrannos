@@ -7,12 +7,14 @@ p.node-name, p.node-desc {
 
 p.node-name {
   font-size: 20pt;
-  font-weight: 600;
-  color: rgb(157, 0, 0);
+  font-weight: 400;
+  color: black;
 }
 
 p.node-desc {
     color: #999;
+    font-family: Helvetica, sans;
+    font-size: 85%;
 }
 
 /* Open links */
@@ -29,30 +31,31 @@ p.node-desc {
 
 /* Modal Windows */
 .modal-content {
-    border: 2px solid rgb(97,97,97);
+    border: 2px solid #201547;
     padding: 1em;
     margin: 1em;
-    border-radius: 30px;
     position: fixed;
     overflow: scroll;
     max-height: 85%;
     top: 10px;
-    background-color: rgba(255, 255, 255, 0.95);
-    width: 80%;
+    background-color: rgba(255, 255, 255, 1);
+    width: 90%;
     -webkit-box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75);
-    box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75);
+    /* box-shadow: 10px 9px 35px 0px rgba(0,0,0,0.75); */
+    box-shadow: 0px 0px 1000px 1000px rgba(0,0,0,0.65);
 }
+
 
 /* The Close Button */
 .syntax_close {
-  color: #aaa;
+  color: #201547;
   float: right;
   font-size: 28px;
   font-weight: bold;
   margin: 0.5em 1em;
   padding: 0px 3px 12px 8px;
-  border: 4px solid black;
+  border: 4px solid #582c83;
   border-radius: 30px;
   height: 20px;
   width: 20px;
@@ -65,11 +68,11 @@ p.node-desc {
   cursor: pointer;
   margin: 0.5em 1em;
   padding: 0px 3px 12px 8px;
-  border: 4px solid red;
+  border: 4px solid #201547;
   border-radius: 30px;
   height: 20px;
   width: 20px;
-  background-color: black;
+  background-color: #582c83;
 }
 
 .Treant, .Trean-loaded {

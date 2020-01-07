@@ -15,7 +15,7 @@
 	margin-bottom: 5em;
 	display: block;
 	background-color: rgb(201, 194, 183);
-	border: 1px solid rgb(159, 159, 159);
+	border: 1px solid #201547;
 	top: 50px;
 	right: 25px;
 	max-width: 30%;
@@ -23,7 +23,7 @@
   /* border: 1px solid silver ; */
 	padding: 1em;
 	overflow: scroll;
-	max-height: 90%;
+	max-height: 80%;
 	-webkit-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
 	-moz-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
 	box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.5);
@@ -34,7 +34,7 @@
 	font-size: 12pt;
 	margin: -1em;
 	padding: 1em;
-	background-color: navy;
+	background-color: #201547;
 	color: white;
 }
 
@@ -44,7 +44,7 @@
 
 .cite_rollover_commentary_comment.visible {
 	display: block;
-	overflow: scroll;
+	overflow: auto;
 }
 
 #cite_rollover_commentary_text span.ohco2_citableNodeText.selected {
