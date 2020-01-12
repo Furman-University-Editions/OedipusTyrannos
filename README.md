@@ -4,6 +4,10 @@
 
 [Link to Sophocles’ *Oedipus Tyrannos* online.](http://folio2.furman.edu/ot/pages/)
 
+[Do Translation-alignment on the *OT*](http://folio2.furman.edu/ot/ducat.html?urn=urn:cts:greekLit:tlg0011.tlg004.fu.token:1-15&urn=urn:cts:greekLit:tlg0011.tlg004.fuEng.token:1-10&urn=)
+
+[Explore and analyze the text of the *OT*]()
+
 ## Version 
 
 **v.1.2.0**. Status: active development; see `releases.md`.

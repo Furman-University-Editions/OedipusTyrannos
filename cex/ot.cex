@@ -10,6 +10,7 @@ license#Creative Commons Attribution Share Alike
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
 urn:cts:greekLit:tlg0011.tlg004.fu:#line#Sophocles#Oedipus Tyrannos#Furman University##true#grc
+urn:cts:greekLit:tlg0011.tlg004.fuEng:#line/part#Sophocles#Oedipus Tyrannos, Jebb, trans.#Furman University##true#eng
 urn:cts:greekLit:tlg0011.tlg004.fu.sp:#line/speaker,line/speech#Sophocles#Oedipus Tyrannos#Furman University#tokenized by speech#true#grc
 urn:cts:greekLit:tlg0011.tlg004.fu.tokens:#line/token#Sophocles#Oedipus Tyrannos#Furman University#tokenized by word and punctuation#true#grc
 
@@ -14611,3 +14612,702 @@ urn:cts:greekLit:tlg0011.tlg004.fu.sp:1527.1#εἰς ὅσον κλύδωνα δ
 urn:cts:greekLit:tlg0011.tlg004.fu.sp:1528.1#ὥστε θνητὸν ὄντα κείνην τὴν τελευταίαν ἰδεῖν
 urn:cts:greekLit:tlg0011.tlg004.fu.sp:1529.1#ἡμέραν ἐπισκοποῦντα μηδένʼ ὀλβίζειν , πρὶν ἂν
 urn:cts:greekLit:tlg0011.tlg004.fu.sp:1530.1#τέρμα τοῦ βίου περάσῃ μηδὲν ἀλγεινὸν παθών .
+
+#!ctsdata
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1.stage#Before the palace of Oedipus in Thebes. Suppliants of all ages are seated on the steps of the altars. Oedipus enters, in the robes of a king: for a moment he gazes silently on the groups at the altars, then speaks.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1.1#Oedipus: My children, latest-born wards of old Cadmus, why do you sit before me like this with wreathed branches of suppliants, while the city reeks with incense,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:5.1#rings with prayers for health and cries of woe? I thought it unbefitting, my children, to hear these things from the mouths of others, and have come here myself, I, Oedipus renowned by all. Tell me, then, venerable old man—since it is proper that you
+urn:cts:greekLit:tlg0011.tlg004.fuEng:10.1#speak for these—in what mood you sit here, one of fear or of desire? Be sure that I will gladly give you all my help. I would be hard-hearted indeed if I did not pity such suppliants as these.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:14.1#Priest of Zeus: Oedipus, ruler of my land, you see the age of those who sit
+urn:cts:greekLit:tlg0011.tlg004.fuEng:15.1#on your altars—some, nestlings still too tender for flight, others, bowed with age, priests, like me of Zeus, and some, these here, the chosen youth. The rest of the folk sit
+urn:cts:greekLit:tlg0011.tlg004.fuEng:20.1#with wreathed branches in the market-place, and before the shrines of Pallas, and where Ismenus gives answer by fire. For the city, as you yourself see, is now sorely vexed, and can no longer lift her head from beneath the angry waves of death.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:25.1#A blight has fallen on the fruitful blossoms of the land, the herds among the pastures, the barren pangs of women. And the flaming god, the malign plague, has swooped upon us, and ravages the town: he lays waste to the house of Cadmus, but enriches Hades with
+urn:cts:greekLit:tlg0011.tlg004.fuEng:30.1#groans and tears. It is not because we rank you with the gods that I and these children are suppliants at your hearth, but because we deem you the first among men in life’s common fortunes and in dealings with the divinities:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:35.1#when you came to the city of the Cadmeans, you freed us from the tax that we rendered to the hard songstress, and that when you knew no more than anyone else, nor had you been taught, but rather by the assistance of a god, as the story goes, you uplifted our life.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:40.1#Now, Oedipus, king glorious in our eyes, we, your suppliants, beseech you to find some defence for us, whether you hear it from some divine omen, or learn of it from some mortal. For I see that the outcome of the councils of experienced men
+urn:cts:greekLit:tlg0011.tlg004.fuEng:45.1#most often have effect. On, best of mortals, uplift our state! On, guard your fame, since now this land calls you savior on account of your former zeal. Let us not remember of your reign that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:50.1#we were first restored and then cast down: lift this state so that it falls no more! With good omen you provided us that past happiness: show yourself the same now too, since if you are to rule this land just as you do now, it is better to be lord of men than of a wasteland.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:55.1#Neither walled town nor ship is anything, if it is empty and no men dwell within.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:58.1#Oedipus: My piteous children, I know quite well the desires with which you have come: I know well that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:60.1#you all are sick, and though you are sick I know well that there is not one of you who is as sick as I. Your pain comes on each of you for himself alone, and for no other, but my soul is in pain at once for the city, for myself, and for you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:65.1#Thus you are not awakening me from sleep: no, be sure that I have wept many tears, wandered far and wide in my thought. I have made use of the only remedy which I could find after close consideration: I sent my relative
+urn:cts:greekLit:tlg0011.tlg004.fuEng:70.1#Creon, Menoeceus’ son, to Apollo’s Pythian residence to learn what we might do or say to protect this city. And now, when the lapse of days is reckoned, I am troubled about what he is doing, for he has been away an unreasonably long time
+urn:cts:greekLit:tlg0011.tlg004.fuEng:75.1#beyond what is fitting. But when he arrives, I would be no true man if did not perform all that the god reveals.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:78.1#Priest: You have spoken opportunely, since at this time these people here indicate that Creon is drawing near.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:80.1#Oedipus: Lord Apollo, may he come to us in the brightness of saving fortune, even as his face is bright!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:82.1#Priest: He seems to bring comfort, since otherwise he would not be coming crowned so thickly with berry-laden bay.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:84.1#Oedipus: We will soon know: he is within hearing-range.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:85.stage#To Creon.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:85.1#Prince, my kinsman, child of Menoeceus, what news have you brought us from the god?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:87.1#Creon: Good news. I tell you that even troubles hard to bear will end in perfect peace if they find the right issue.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:89.1#Oedipus: But what is the oracle ? So far, your words
+urn:cts:greekLit:tlg0011.tlg004.fuEng:90.1#neither encourage nor frighten me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:91.1#Creon: If you want to hear in the presence of these people, I am ready to speak: otherwise we can go inside.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:93.1#Oedipus: Speak to all. The sorrow that I bear for these is more than for my own life.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:95.1#Creon: I will tell you what I heard from the god. Phoebus our lord clearly commands us to drive out the defilement which he said was harbored in this land, and not to nourish it so that it cannot be healed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:99.1#Oedipus: With what sort of purification? What is the manner of the misfortune?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:100.1#Creon: By banishing the man, or by paying back bloodshed with bloodshed, since it is this blood which brings the tempest on our city.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:102.1#Oedipus: And who is the man whose fate he thus reveals?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:103.1#Creon: Laius, my lord, was the leader of our land before you assumed control of this state.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:105.1#Oedipus: I know it well—by hearsay, for I never saw him.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:106.1#Creon: He was slain, and the god now bids us to take vengeance on his murderers, whoever they are.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:108.1#Oedipus: Where on earth are they? Where shall the dim track of this old crime be found?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:110.1#Creon: In this land, the god said. What is sought for can be caught; only that which is not watched escapes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:112.1#Oedipus: Was it in the house, or in the field, or on foreign soil that Laius met his bloody end?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:114.1#Creon: He left our land, as he said, on a mission to Delphi.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:115.1#And once he had set forth, he never again returned.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:116.1#Oedipus: And was there none to tell? Was there no travelling companion who saw the deed, from whom tidings might have been gained, and used?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:118.1#Creon: All perished, save one who fled in fear, and he could tell with assurance only one thing of all that he saw.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:120.1#Oedipus: And what was that? One thing might hold the clue to many, if we could only get a small beginning for hope.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:122.1#Creon: He said that robbers fell upon them, not one man alone, but with a great force.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:124.1#Oedipus: How then, unless some intrigue had been worked with bribes
+urn:cts:greekLit:tlg0011.tlg004.fuEng:125.1#from here in Thebes, would the robbers have been so bold?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:126.1#Creon: Such things were surmised. But once Laius was slain no avenger arose in the midst of our troubles.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:128.1#Oedipus: But when royalty had fallen in this way, what trouble prevented a full search?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:130.1#Creon: The riddling Sphinx had forced us to let things that were obscure go, and to investigate the pressing trouble.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:132.1#Oedipus: I will start afresh, and once more make dark things plain. Worthily has Phoebus Apollo—and worthily have you—bestowed this care on behalf of the dead. And so, as is fitting, you will find me allied with you
+urn:cts:greekLit:tlg0011.tlg004.fuEng:135.1#in seeking vengeance for this land, and for the god as well. I will dispel this taint not on behalf of far-off friends, but for my own benefit. For whoever killed Laius
+urn:cts:greekLit:tlg0011.tlg004.fuEng:140.1#might wish to take vengeance on me also with a hand as fierce. Avenging Laius, therefore, I serve myself. Come, my children, as quickly as possible rise from the altar-steps, and lift these suppliant boughs. Let someone summon here Cadmus’ people, warning them that I will leave nothing untried.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:145.1#For with the god’s help our good fortune—or our ruin—will be made certain.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:147.1#Priest: My children, let us rise. What we came to seek, this man promises of his own accord. And may Phoebus, who sent these oracles,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:150.1#come to us as savior and deliverer from the pestilence.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:151.stage#The chorus of Theban elders enters.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:151.1#Chorus: O sweetly-speaking message of Zeus, in what spirit have you come to glorious Thebes from golden Pytho? I am on the rack, terror shakes my soul, O Delian healer to whom wild cries rise,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:155.1#in holy fear of you, wondering what debt you will extract from me, perhaps unknown before, perhaps renewed with the revolving years. Tell me, immortal Voice, child of golden Hope.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:159.1#Chorus: First I call on you, daughter of Zeus, immortal Athena,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:160.1#and on your sister, Artemis, guardian of our earth, who sits on her glorious throne above the circle of our market-place, and on far-shooting Apollo: oh shine forth for me, my three-fold help against death!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:165.1#If ever before you drove a fiery pest from our borders to stop ruin rushing upon our city, come now also!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:169.1#Chorus: Alas, countless are the sorrows I bear.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:170.1#A plague is on all our people, and thought can find no weapon for defense. The fruits of the glorious earth do not grow; by no birth of offspring do women surmount the pangs in which they shriek.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:175.1#You can see life after life speed away, like a bird on the wing, swifter than irresistible fire, to the shore of the western god.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:179.1#Chorus: With such deaths, past numbering, the city perishes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:180.1#Unpitied, her children lie on the ground, spreading pestilence, with no one to mourn them. Meanwhile young wives and grey-haired mothers raise a wail at the steps of the altars, some here, some there,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:185.1#and groan in supplication for their terrible woes. The prayers to the Healer ring clear, and with them the voice of lamentation. For which things, golden daughter of Zeus, send us the bright face of comfort.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:190.1#Chorus: Grant that the fierce god of death, who now without the bronze of shields, though among cries like those of battle, wraps me in the flames of his onset, may turn his back in speedy flight from our land, borne by a favorable wind to the great chamber of Amphitrite,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:195.1#or to the Thracian waves, those waters where none find haven. For if night leaves anything undone in the working of destruction, day follows to accomplish it. You who wield the
+urn:cts:greekLit:tlg0011.tlg004.fuEng:200.1#powers of fiery lightning, Zeus our father, slay him beneath your thunder-bolt.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:203.1#Chorus: Lycean Lord, would that the shafts from your bent bow’s string of woven gold might
+urn:cts:greekLit:tlg0011.tlg004.fuEng:205.1#go forth in their might, our champions in the face of the foe, and the flashing fires of Artemis too, with which she darts through the Lycian hills. I call him whose locks are bound with gold,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:210.1#who is named with the name of this land, ruddy Bacchus to whom Bacchants cry, to draw near with the blaze of his shining torch,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:215.1#our ally against the god unhonored among the gods.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:216.1#Oedipus: You pray. And in answer to your prayer, if you will give a loyal reception to my words and minister to your own disease, you may hope to find help and relief from woes. These words I will speak publicly, as one who was a stranger to the report,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:220.1#a stranger to the deed. I would not go far on the trail if I were tracing it alone, without a clue. But as it is—since it was only after the event that I was counted a Theban among Thebans—to you, Cadmeans all, I do thus proclaim: Whoever knows
+urn:cts:greekLit:tlg0011.tlg004.fuEng:225.1#by whom Laius son of Labdacus was slain, I order him to declare all to me. And if he is afraid, I order him to remove the danger of indictment from his path by denouncing himself: he will suffer no other punishment, but will only leave this land, unhurt.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:230.1#If anyone knows the assassin to be an alien, from another land, let him not keep silent. I will reward him, and my thanks shall rest with him besides. But if he keeps silent, if anyone, through fear, seeks to screen himself or a friend from my orders,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:235.1#then hear what I shall do: I charge you that no resident of this land, which I rule, give shelter to or address that murderer, whoever he is, or make him a partner in prayer or sacrifice,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:240.1#or give him a share of the lustral rite. Ban him from your houses, all of you, knowing that this is the defilement, as the oracle of the Pythian god has recently shown to me. In this way
+urn:cts:greekLit:tlg0011.tlg004.fuEng:245.1#I am an ally both to the god and to the dead man. And I pray solemnly that the slayer, whoever he is, whether he alone is guilty or he has partners, may, in the horrible way he deserves, wear out his unblest life. And for myself I pray that if he should,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:250.1#with my knowledge, become a resident of my house, I may suffer the same things which I have just called down on others. And I order you to make all these words good, for my sake, for the sake of the god, and for the sake of our land, thus rendered unfruitful and ungodly. 
+urn:cts:greekLit:tlg0011.tlg004.fuEng:255.1#For even if the matter had not been urged upon us by a god, it still would not have been fit that you should leave the guilt unpunished as it is, when one so noble—and he your king—had perished. You should have searched it out. But now, since I hold the powers which he once held,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:260.1#possessing his bed and the wife who bore his children, and since, had his hope of offspring not been unsuccessful, children born of one mother would have tied us with a common bond—as it was, fate swooped upon his head—I will uphold this cause, as though it were that of my own father,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:265.1#and will leave no stone unturned in my search for the one who shed the blood, for the honor of the son of Labdacus and of Polydorus and the elder Cadmus and Agenor of old.  And for those who do not obey me, I pray that the gods
+urn:cts:greekLit:tlg0011.tlg004.fuEng:270.1#send them neither harvest of the earth nor fruit of the womb, but that they perish with the present fate, or one still worse. But to all you, the loyal Cadmeans who are satisfied by these things, may justice, our ally,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:275.1#and all the gods be gracious always.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:276.1#Chorus: As you have put me under oath, on my oath, my king, I will speak. I am not the slayer, nor can I reveal him. As for the investigation, it was for Phoebus, who enjoined it, to tell us who did the deed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:280.1#Oedipus: Justly said. But no man on earth can force the gods to do what they do not want.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:282.1#Chorus: I would like to say what seems to me the next best course.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:283.1#Oedipus: And if there is a third course, do not hesitate to reveal it too.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:284.1#Chorus: I know that our lord Teiresias is the seer most like our
+urn:cts:greekLit:tlg0011.tlg004.fuEng:285.1#lord Apollo: from him, my king, an investigator might learn most clearly about these affairs.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:287.1#Oedipus: Not even this have I neglected. On Creon’s suggestion, I sent a man twice to bring him. And I have been wondering for some time why he is not here.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:290.1#Chorus: Indeed—his skill apart—the rumors are but faint and old.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:291.1#Oedipus: What are the rumors? I am investigating every tale.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:292.1#Chorus: He was said to have been killed by some wayfarers.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:293.1#Oedipus: I too have heard that. But no one sees the one who saw it.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:294.1#Chorus: If he knows what fear is, he will not hesitate to come forward when he
+urn:cts:greekLit:tlg0011.tlg004.fuEng:295.1#hears your curses, so dire are they.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:296.1#Oedipus: When a man does not shrink from a deed, he is not scared by a word.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:297.1#Chorus: But there is no one to convict him. But here they bring at last the godlike prophet, the only man in whom truth lives.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:300.stage#Teiresias enters, led by a boy.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:300.1#Oedipus: Teiresias, whose soul grasps all things, both that which may be told and that which is unspeakable, the Olympian secrets and the affairs of the earth, you feel, though you cannot see, what a huge plague haunts our state. From which, great prophet, we find you to be our protector and only savior.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:305.1#Now, Phoebus—if indeed you have not already heard the news—sent answer to our question that the only way to rid ourselves of this pest that afflicts us is to discover the slayers of Laius, and then to slay them or banish them from our land.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:310.1#So do not begrudge us the voice of the birds or any other path of prophecy, but save yourself and your state, save me, save all that is defiled by the dead. We are in your hands, and man’s noblest task is to help others
+urn:cts:greekLit:tlg0011.tlg004.fuEng:315.1#to the best of his means and powers.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:316.1#Teiresias: Alas, how terrible it is to have wisdom when it does not benefit those who have it. I knew this well, but let it slip from my mind: otherwise I would not have come here.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:319.1#Oedipus: What now? How disheartened you have come!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:320.1#Teiresias: Let me go home. For you will bear your own burden to the end, and I will bear mine, if you consent.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:322.1#Oedipus: Your words are strange and unkind to the state which nurtured you, since you withhold this response.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:324.1#Teiresias: I see that you, for your part, speak inappropriately.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:325.1#Therefore do not speak, so I will not suffer the same.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:326.1#Oedipus: For the love of the gods, do not turn away, if you have knowledge: all we suppliants implore you on our knees.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:328.1#Teiresias: For all of you are without knowledge. But never will I reveal my troubles—not to call them yours.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:330.1#Oedipus: What are you saying? Do you know the secret and refuse to tell it? Will you betray and destroy the state?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:332.1#Teiresias: I will grieve neither myself nor you. Why do you ask these things in vain? You will not learn the answers from me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:334.1#Oedipus: Will you not, basest of the base—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:335.1#you would anger a stone—speak out? can nothing touch you? Will you never make an end?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:337.1#Teiresias: You blame my anger, but do not perceive your own: no, you blame me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:339.1#Oedipus: Who would not be angry hearing such words,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:340.1#with which you now are slighting the city?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:341.1#Teiresias: The future will come of itself, though I shroud it in silence.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:342.1#Oedipus: Since it must come anyway, it is right that you tell it to me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:343.1#Teiresias: I will speak no further: rage, if you wish, with the fiercest wrath your heart knows.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:345.1#Oedipus: In my anger I will not spare to speak all my thoughts. Know that you seem to me to have helped in plotting the deed, and to have done it, short of performing the actual murder with your own hands: if you had eyesight, I would have said that you had done even this by yourself.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:350.1#Teiresias: In truth? I order you to abide by you own decree, and from this day forth not to speak to these men or to me: you are the accursed defiler of this land.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:354.1#Oedipus: So brazen with your blustering taunt?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:355.1#Where do you think to escape to?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:356.1#Teiresias: I have escaped. There is strength in my truth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:357.1#Oedipus: Who taught you this? Not your skill, at any rate.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:358.1#Teiresias: You yourself. For you spurred me on to speak against my will.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:359.1#Oedipus: What did you say? Speak again, so I may learn it better.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:360.1#Teiresias: Did you not understand before, or are you talking to test me?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:361.1#Oedipus: I cannot say I understood fully. Tell me again.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:362.1#Teiresias: I say that you are the killer of the man whose slayer you seek.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:363.1#Oedipus: Now you will regret that you have said such dire words twice.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:364.1#Teiresias: Should I tell you more, that you might get more angry?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:365.1#Oedipus: Say as much as you want: it will be said in vain.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:366.1#Teiresias: I say that you have been living in unguessed shame with your closest kin, and do not see into what woe you have fallen.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:368.1#Oedipus: Do you think that you will always be able to speak like this without smarting for it?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:369.1#Teiresias: Yes, if indeed there is any strength in truth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:370.1#Oedipus: But there is, except not for you. You do not have that strength, since you are maimed in your ears, in your wit, and in your eyes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:372.1#Teiresias: And you are a poor wretch to utter taunts that every man here will soon hurl at you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:374.1#Oedipus: Night, endless night has you in her keeping, so that you can never hurt me,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:375.1#or any man that sees the light of the sun.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:376.1#Teiresias: No, it is not your fate to fall at my hands, since Apollo, to whom this matter is a concern, is sufficient.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:378.1#Oedipus: Are these Creon’s devices, or your own?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:379.1#Teiresias: Creon is no trouble for you: you are your own.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:380.1#Oedipus: O wealth, and empire, and skill surpassing skill in life’s keen rivalries, how great is the envy in your keeping, if for the sake of this office which the city has entrusted to me, a gift unsought,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:385.1#Creon the trustworthy, Creon, my old friend, has crept upon me by stealth, yearning to overthrow me, and has suborned such a scheming juggler as this, a tricky quack, who has eyes only for profit, but is blind in his art!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:390.1#Come, tell me, where have you proved yourself a seer? Why, when the watchful dog who wove dark song was here, did you say nothing to free the people? Yet the riddle, at least, was not for the first comer to read: there was need of a seer’s help,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:395.1#and you were discovered not to have this art, either from birds, or known from some god. But rather I, Oedipus the ignorant, stopped her, having attained the answer through my wit alone, untaught by birds. It is I whom you are trying to oust, assuming that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:400.1#you will have great influence in Creon’s court. But I think that you and the one who plotted these things will rue your zeal to purge the land: if you did not seem to be an old man, you would have learned to your cost how haughty you are.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:404.1#Chorus: To our way of thinking, these words, both his and yours, Oedipus,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:405.1#have been said in anger. We have no need of this, but rather we must seek how we shall best discharge the mandates of the god.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:408.1#Teiresias: Though you are king, the right of reply must be considered the same for both: over that I have control.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:410.1#For I do not live as your slave, but as Loxias’. I will not stand enrolled as Creon’s client. And I tell you, since you have taunted my blindness, that though you have sight, you do not see what a state of misery you are in, or where you dwell, or with whom.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:415.1#Do you know who your parents are? You have been an unwitting enemy to your own kin, both in the Underworld and on the earth above, and the double lash of your mother’s and your father’s curse will one day drive you from this land in dreadful haste, with darkness upon those eyes of yours which now can see.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:420.1#What place will be harbor to your cries, what part of all Cithaeron will not ring with them soon, when you have learned the meaning of the nuptials in which, within that house, you found a fatal haven, after a voyage so fair? And you have not guessed at a throng of other ills
+urn:cts:greekLit:tlg0011.tlg004.fuEng:425.1#which will bring you level with your true self and with your own children. Therefore heap your scorn upon Creon and upon my message: for no man will ever be crushed more miserably than you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:429.1#Oedipus: Are these taunts to be endured from him?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:430.1#Be gone, to your ruin; be gone this instant! Will you not turn your back and leave this house?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:432.1#Teiresias: I would not have come if you had not called me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:433.1#Oedipus: I did not know you would speak foolishly, for otherwise it would have been a long time before I summoned you to my home.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:435.1#Teiresias: I was born like this—as you think, a fool, but in the opinion of the parents who bore you, quite sane.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:437.1#Oedipus: What parents? Wait. What man is my father?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:438.1#Teiresias: This day will reveal your birth and bring your ruin.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:439.1#Oedipus: What riddles, what dark words you always say.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:440.1#Teiresias: Are you not the best at unravelling mysteries?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:441.1#Oedipus: Reproach me in what you will find me to be great.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:442.1#Teiresias: Yet it was just that fortune that undid you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:443.1#Oedipus: But if it saved this city I care not.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:444.1#Teiresias: I will take my leave. You, boy, lead me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:445.1#Oedipus: Yes, let him take you: while here, you are a hindrance, a source of trouble. When you have gone, you will vex me no more.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:447.1#Teiresias: I will go when I have performed the errand for which I came, fearless of your frown: you can never destroy me. I tell you: the man whom you have been seeking this long while,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:450.1#uttering threats and proclaiming a search into the murder of Laius, is here, ostensibly an alien sojourner, but soon to be found a native of Thebes; nor will he enjoy his fortune. A blind man, though now he sees,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:455.1#a beggar, though now rich, he will make his way to a foreign land, feeling the ground before him with his staff. And he will be discovered to be at once brother and father of the children with whom he consorts; son and husband of the woman who bore him;
+urn:cts:greekLit:tlg0011.tlg004.fuEng:460.1#heir to his father’s bed, shedder of his father’s blood. So go in and evaluate this, and if you find that I am wrong, say then that I have no wit in prophecy.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:463.1#Chorus: Who is he of whom the divine voice from the Delphian rock has said
+urn:cts:greekLit:tlg0011.tlg004.fuEng:465.1#to have wrought with blood-red hands horrors that no tongue can tell? It is time that he ply in flight a foot stronger than the feet of storm-swift steeds.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:470.1#The son of Zeus is springing upon him with fiery lightning, and with him come the dread unerring Fates.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:473.1#Chorus: Recently the message has flashed forth from snowy Parnassus
+urn:cts:greekLit:tlg0011.tlg004.fuEng:475.1#ordering all to search for the unknown man. He wanders under cover of the wild wood, among caves and rocks, fierce as a bull, wretched and forlorn on his joyless path, still seeking to separate himself from the doom revealed at the central shrine of the earth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:480.1#But that doom lives forever, forever flits around him.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:483.1#Chorus: The wise augur moves me, neither approving nor denying, with dread, with dread indeed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:485.1#I am at a loss what to say. I am flustered in my expectations, seeing neither the present nor the future clearly. Never in past days or in these have I heard how the house of Labdacus or the son of Polybus had any quarrel with one another that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:490.1#I could bring as proof in assailing the public reputation of Oedipus, seeking to avenge the line of Labdacus
+urn:cts:greekLit:tlg0011.tlg004.fuEng:495.1#for the undiscovered murder.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:496.1#Chorus: Zeus and Apollo indeed are keen of thought and know the affairs of the earth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:500.1#But there is no sure test of whether a mortal seer attains more knowledge than I do, though man may surpass man in wisdom. But until I see the word made good, I will never assent when men blame Oedipus. Before all eyes the winged maiden came against him once upon a time, and he was seen to be wise,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:510.1#and bore the test in welcome service to the state. Never, therefore, will he be adjudged guilty of evil.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:513.1#Creon: Fellow citizens, having learned that Oedipus the king lays dire charges against me, I have come in indignation.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:515.1#If he thinks that in the present troubles he has suffered from me, by word or by deed, anything harmful, truly I do not desire my full term of years, when I must bear such blame as this. The wrong of this rumor
+urn:cts:greekLit:tlg0011.tlg004.fuEng:520.1#touches me not in one point alone, but has the largest scope, if I am to be called a traitor in the city, a traitor by you and by my friends.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:523.1#Chorus: But perhaps this taunt came under the stress of anger, rather than from the purpose of his heart.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:525.1#Creon: Was the opinion given that my counsels had brought the seer to utter his falsehoods?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:527.1#Chorus: Such things were said—I do not know with what meaning.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:529.1#Creon: And was this charge laid against me with steady eyes and steady mind?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:530.1#Chorus: I do not know. I see not what my masters do. But here comes our lord from the house.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:532.stage#Oedipus enters.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:532.1#Oedipus: You, how did you get here? Are you so boldfaced that you have come to my house, you who are manifestly the murderer of its master,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:535.1#the palpable thief of its crown? Come, tell me, in the name of the gods, was it cowardice or folly which you saw in me and which led you to plot this thing? Did you think that I would not notice this deed of yours creeping upon me by stealth, or that if I became aware of it I would not ward it off?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:540.1#Is your attempt not foolish, to seek the throne without followers or friends—a prize which followers and wealth must win?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:543.1#Creon: Mark me now: hear a fair reply in answer to your words, and then judge for yourself on the basis of knowledge.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:545.1#Oedipus: You are apt in speech, but I have a poor wit for lessons, since I have found you a malignant foe.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:547.1#Creon: Now hear first how I will explain this very thing.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:548.1#Oedipus: One thing—that you are not false—do not bother to explain to me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:549.1#Creon: If you think that stubbornness
+urn:cts:greekLit:tlg0011.tlg004.fuEng:550.1#without sense is a virtue, you are not wise.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:551.1#Oedipus: If you think you can wrong a kinsman and escape the penalty, you are not sane.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:553.1#Creon: Justly said, I grant you: but tell me what the wrong is that you say you are suffering at my hands.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:555.1#Oedipus: Did you, or did you not, advise me to send for that reverend seer?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:557.1#Creon: Even now I am of the same mind.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:558.1#Oedipus: How long is it, then, since Laius . . .
+urn:cts:greekLit:tlg0011.tlg004.fuEng:559.1#Creon: Did what? I do not understand.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:560.1#Oedipus: was swept out of sight by deadly violence?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:561.1#Creon: The count of years would run far into the past.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:562.1#Oedipus: Did this seer possess this skill in those days?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:563.1#Creon: He was wise as now, and held in equal honor.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:564.1#Oedipus: Did he make mention of me at that time?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:565.1#Creon: Never, certainly, when I was within hearing.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:566.1#Oedipus: Did you never investigate the murder?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:567.1#Creon: Due search we made, of course, though we learned nothing.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:568.1#Oedipus: And how was it that this sage did not tell this story then.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:569.1#Creon: I do not know: where I lack insight it is my custom to be silent.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:570.1#Oedipus: This much, at least, you know, and could declare with insight enough.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:571.1#Creon: What is that? If I know it, I will not deny it.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:572.1#Oedipus: That, if he had not conferred with you, he would not have named me as Laius’ slayer.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:574.1#Creon: If he says this, you know best: but I deem it just
+urn:cts:greekLit:tlg0011.tlg004.fuEng:575.1#to learn from you as much as you have from me now.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:576.1#Oedipus: Learn your fill. I will never be found guilty of the bloodshed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:577.1#Creon: Say, then—have you married my sister?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:578.1#Oedipus: The question allows no denial.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:579.1#Creon: And you rule the land as she does, with equal sway.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:580.1#Oedipus: She obtains from me all that she wishes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:581.1#Creon: And do I not rank as a third peer of you two?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:582.1#Oedipus: It is just in this that you are seen to be a false friend.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:583.1#Creon: Not so, if you would reason with your heart as I do with mine. Weigh this first—whether you think that anyone would
+urn:cts:greekLit:tlg0011.tlg004.fuEng:585.1#choose to rule amid terrors rather than in unruffled peace, granted that he is to have the same powers. Now I, for one, have by nature no yearning to rule as a king rather than to do kingly deeds, and neither does any man I know who has a sound mind.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:590.1#For now I attain all everything from you without fear, but, if I were ruler myself, I would have to do much that went against my own pleasure.  How, then, could royalty be sweeter to me to have than painless rule and influence? I am not yet so misguided
+urn:cts:greekLit:tlg0011.tlg004.fuEng:595.1#that I desire other honors than those which bring profit. Now, every man has a greeting for me; now, all that have a request of you crave to speak with me, since in me lies all their hope of success. Why then should I give up these things and take those others?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:600.1#No mind will become false while it is wise. No, I am no lover of such a policy, and if another put it into action, I could never bear to go along with him. And, in proof of this, first go to Pytho, and ask whether I brought a true report of the oracle.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:605.1#Then next, if you have found that I have planned anything in concert with the soothsayer, take and slay me, by the sentence not of one mouth, but of two—by my own no less than yours. But do not assume my guilt on unproven inference. It is not just to judge bad men good at random,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:610.1#or good men bad. I think that casting off a true friend is for a man like casting away the life in his own bosom, which he most loves. You will surely learn about these affairs in time, since time alone reveals a just man.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:615.1#But you can discern a bad man even in one day alone.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:616.1#Chorus: He has spoken well, my king, for one who is taking care not to fall: those who are quick in counsel are not sure.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:618.1#Oedipus: When the stealthy plotter is moving on me quickly, I, too, must be quick in my counterplot.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:620.1#If I await him in repose, his ends will have been gained, and mine lost.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:622.1#Creon: What do you want then? To banish me from the land?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:623.1#Oedipus: Hardly. I desire your death, not your exile, so that I might show what a thing envy is.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:625.1#Creon: Are you resolved not to yield or believe?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:625.2#Oedipus: <del>No, for you persuade me that you are unworthy of trust.</del>
+urn:cts:greekLit:tlg0011.tlg004.fuEng:626.1#Creon: No, for I see you are not sane.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:626.2#Oedipus: Sane, at least, in my own interest.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:627.1#Creon: But you should be so in mine also.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:627.2#Oedipus: You are false.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:628.1#Creon: But if you understand nothing?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:628.2#Oedipus: Still I must rule.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:629.1#Creon: Not if you rule badly.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:629.2#Oedipus: Hear him, city of Thebes!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:630.1#Creon: The city is mine too, not yours alone.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:631.1#Chorus: Cease, lords. In good time I see Iocasta coming from the house, with whose help you should resolve your present feud.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:634.stage#Iocasta enters.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:634.1#Iocasta: Misguided men, why have you raised
+urn:cts:greekLit:tlg0011.tlg004.fuEng:635.1#such a foolish argument? Are you not ashamed, while the land is so sick, to stir up troubles of your own? Come, go into the house—and you, Creon, go to yours—and stop making so much of a petty grief.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:639.1#Creon: Kinswoman, Oedipus, your husband,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:640.1#wants to do one of two terrible things to me, either to thrust me from the land of my fathers or to arrest and slay me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:642.1#Oedipus: Yes indeed, for I have caught him, lady, working evil against my person with his wicked craft.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:644.1#Creon: May I derive no benefit,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:645.1#but perish accursed, if I have done any of the things of which you charge me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:646.1#Iocasta: In the name of the gods, believe it, Oedipus, first for the sake of this awful oath to the gods, then for my sake and for the sake of those who stand before you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:649.1#Chorus: Consent, reflect, listen, my king, I beg you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:650.1#Oedipus: What would you have me grant you?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:651.1#Chorus: Respect him who was in the past not foolish, and who now is strong in his oath.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:653.1#Oedipus: Do you understand what you crave?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:654.1#Chorus: I do.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:655.1#Oedipus: Tell me, then, what you mean.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:656.1#Chorus: That you should never use an unproved rumor to cast a dishonoring charge on the friend who has bound himself with a curse.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:658.1#Oedipus: Then be quite aware that when you seek this you are seeking death or exile from this land for me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:660.1#Chorus: No, by the god that stands at the head of all the host of the gods, no, by the sun. Unblest, unbefriended, may I die the worst possible death, if I have this thought!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:665.1#But my unhappy soul is worn by the withering of the land, as well as by the thought that our old sorrows should be crowned by new ones arising from the two of you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:669.1#Oedipus: Then let him go, though I am surely doomed to be killed
+urn:cts:greekLit:tlg0011.tlg004.fuEng:670.1#or thrust dishonored from the land. Your words, not his, move me to compassion.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:673.1#Creon: You are truly sullen in yielding, as you are vehement in the excesses of your wrath. But such natures are
+urn:cts:greekLit:tlg0011.tlg004.fuEng:675.1#justly most difficult for themselves to bear.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:676.1#Oedipus: Will you not be gone and leave me in peace?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:676.2#Creon: I will go on my way. I have found you undiscerning, but in the view of these men I am just.<stage>He exits.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:678.1#Chorus: Lady, why do you hesitate to take this man into the house?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:680.1#Iocasta: I will, when I have learned what has happened.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:681.1#Chorus: Blind suspicion, bred of talk, arose, and injustice inflicts wounds.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:682.1#Iocasta: On both sides?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:683.1#Chorus: Yes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:684.1#Iocasta: And what was the story?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:685.1#Chorus: It is enough, I think, enough, when our land is already vexed, that the matter should rest where it stopped.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:687.1#Oedipus: Do you see to what you have come, for all your noble intent, in seeking to slacken and blunt my zeal?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:689.1#Chorus: King, I have said it more than once—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:690.1#be sure that I would have proved myself a madman, bankrupt in sane counsel, if I forsook you—you, who gave a true course to my beloved country when it was
+urn:cts:greekLit:tlg0011.tlg004.fuEng:695.1#distraught with troubles, and who now are likely to prove our prospering guide.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:698.1#Iocasta: In the name of the gods, tell me, king, the reason that you have conceived this steadfast wrath.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:700.1#Oedipus: That I will do, for I honor you, lady, above these men. Creon is the cause, and the plots he has laid against me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:702.1#Iocasta: Come, tell me how the argument began.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:703.1#Oedipus: He says that I stand guilty of Laius’ blood.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:704.1#Iocasta: On his own knowledge or on hearsay from another?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:705.1#Oedipus: He has made a rascal seer his mouth piece: as for himself, he keeps his lips wholly pure.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:707.1#Iocasta: Then absolve yourself of the things about which you are speaking. Listen to me, and take comfort in learning that nothing of mortal birth shares in the science of the seer.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:710.1#I will give you a pithy proof of this. An oracle came to Laius once—I will not say from Phoebus himself, but from his ministers—saying that he would suffer his doom at the hands of the child to be born to him and me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:715.1#And Laius—as, at least, the rumor goes—was murdered one day by foreign robbers at a place where the three highways meet. And the child’s birth was not yet three days past, when Laius pinned his ankles together and had him thrown, by others’ hands, on a remote mountain.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:720.1#So, in that case, Apollo did not bring it to pass that the child should become the slayer of his father, or that Laius should suffer that which he feared, death at the hands of his child: thus the messages of the seer’s art had mapped out the future. Pay them no regard. Whatever necessary event
+urn:cts:greekLit:tlg0011.tlg004.fuEng:725.1#the god seeks, he himself will easily bring to light.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:726.1#Oedipus: What restlessness of soul, lady, what tumult has come upon me since I heard you speak!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:728.1#Iocasta: What anxiety has startled you, that you say this?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:729.1#Oedipus: I thought that I heard this from you—that Laius
+urn:cts:greekLit:tlg0011.tlg004.fuEng:730.1#was slain where the three roads meet.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:731.1#Icasta: Yes, that was the report, and so it is still thought.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:732.1#Oedipus: And where is the place where this occurred?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:733.1#Iocasta: The land is called Phocis; the branching forks lead to the same spot from Delphi and from Daulia.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:735.1#Oedipus: And how much time has passed since these events took place?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:736.1#Iocasta: The news was announced to the town shortly before you first attained power over this land.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:738.1#Oedipus: O Zeus, what have you decreed for me?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:739.1#Iocasta: Why, Oedipus, does this matter weigh upon your heart?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:740.1#Oedipus: Do not ask me yet. Tell me rather what stature Laius had, and how ripe his manhood was.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:742.1#Iocasta: He was tall—the silver just lightly strewn among his hair—and his form was not greatly unlike your own.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:744.1#Oedipus: Unhappy that I am! I think that I have
+urn:cts:greekLit:tlg0011.tlg004.fuEng:745.1#laid myself under a terrible curse without realizing it.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:746.1#Iocasta: How do you mean? I tremble when I look at you, my lord.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:747.1#Oedipus: I have dread fears that the seer can see. But you will reveal the matter better if you tell me one thing more.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:749.1#Iocasta: Indeed, though I tremble, I will hear and answer all that you ask.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:750.1#Oedipus: Did he go with a small force, or like a chieftain, with many armed followers?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:753.1#Iocasta: Five they were in all—a herald among them—and there was one carriage which bore Laius.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:755.1#Oedipus: Alas! It is all clear now! Who gave you this information, lady?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:756.1#Iocasta: A servant, the only survivor who returned home.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:757.1#Oedipus: Is he by any chance in the house now?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:758.1#Iocasta: No. Soon after he returned and found you ruling in Laius’ stead,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:760.1#he pled with me, with hand laid on mine, to send him to the fields, to the pastures of the flocks, that he might be far from the sight of this town. And I sent him; he was worthy, for a slave, to win even a larger favor than that.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:765.1#Oedipus: Would, then, that he return to us without delay!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:766.1#Iocasta: That is easy. But why do you enjoin this?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:767.1#Oedipus: I fear, lady, that my words have been rash, and therefore I wish to see him.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:769.1#Iocasta: He will come. But I think that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:770.1#I too have a claim to learn what lies heavy on your heart, my king.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:771.1#Oedipus: It will not be kept from you, now that my forebodings have advanced so far. To whom more than to you would I speak in suffering such a fortune as this? My father was Polybus of Corinth,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:775.1#my mother the Dorian Merope. I was considered the greatest of the folk in that town, until a chance event befell me, worthy, indeed, of wonder, though not of my overreaction regarding it. At a banquet, a man drunk with wine
+urn:cts:greekLit:tlg0011.tlg004.fuEng:780.1#cast it at me that I was not the true son of my father. And I, vexed, restrained myself for that day as best as I could, but on the next went to my mother and father and questioned them. They were angry at the one who had let this taunt fly.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:785.1#So I had comfort about them, but the matter rankled in my heart, for such a rumor still spread widely. I went to Delphi without my parents’ knowledge, and Phoebus sent me forth disappointed of the knowledge for which I had come,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:790.1#but in his response set forth other things, full of sorrow and terror and woe: that I was fated to defile my mother’s bed, that I would reveal to men a brood which they could not endure to behold, and that I would slay the father that sired me.  When I heard this, I turned in flight from the land of <placeName key="perseus,Corinth">Corinth,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:795.1#from then on thinking of it only by its position under the stars, to some spot where I should never see fulfillment of the infamies foretold in my evil fate. And on my way I came to the land in which you say that this prince perished.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:800.1#Now, lady, I will tell you the truth. When on my journey I was near those three roads, there I met a herald, and a man in a carriage drawn by colts, as you have described. The leader and the old man
+urn:cts:greekLit:tlg0011.tlg004.fuEng:805.1#himself tried to thrust me rudely from the path. Then, in anger, I struck the one pushing me aside, the driver, and the old man, when he saw this, watched for the moment I was passing, and from his carriage, brought his double goad straight down on my head.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:810.1#Yet he was paid back with interest: with one swift blow from the staff in this hand he rolled right out of the carriage onto his back. I slew every one of them. But if this stranger had any tie of kinship to Laius,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:815.1#who is now more wretched than this man before you? What mortal could be proved more hateful to the gods? No stranger, no citizen, is allowed to receive him at home, it is unlawful for anyone to accost him, and all must push him from their homes. And this—this curse—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:820.1#was laid on me by no other mouth than my own. And I pollute the bed of the slain man with the hands by which he perished. Am I now vile? Oh, am I not utterly unclean, seeing that I must be banished, and in banishment neither see my own people,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:825.1#nor set foot in my own land, or else be joined in wedlock to my mother, and slay my father Polybus, who sired and reared me? Then would he who judged these things to be sent down by some cruel divinity not be right about Oedipus?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:830.1#Prevent, prevent, you pure and awful gods, me from ever seeing that day! No, may I be swept away from all men, before I see myself visited with that brand of doom.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:834.1#Chorus: To us, king, these things are fraught with fear. Yet have hope, until at least you have gained full knowledge
+urn:cts:greekLit:tlg0011.tlg004.fuEng:835.1#from the one who saw the deed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:836.1#Oedipus: I have, in truth, this much hope alone: I await the man summoned from the pastures.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:838.1#Iocasta: And what do you want from him when he appears?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:839.1#Oedipus: I will tell you. If his story is found
+urn:cts:greekLit:tlg0011.tlg004.fuEng:840.1#to match withwith yours, I at least, will stand clear of disaster.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:841.1#Iocasta: And what special note did you hear from me?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:842.1#Oedipus: You said that he spoke of Laius as slain by robbers. If, then, he still speaks of several as before, I was not the slayer:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:845.1#a solitary man could not be considered the same as that band. But if he names one lonely wayfarer, then beyond doubt this guilt rests upon me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:848.1#Iocasta: Be assured that thus, at least, the tale was first told. He cannot revoke that,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:850.1#for the city heard it, not I alone. But even if he should diverge somewhat from his former story, never, king, can he show that the murder of Laius, at least, is truly square with the prophecy, for Loxias plainly said that he was to die at the hand of my child.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:855.1#How was it then that that poor innocent never slew him, but perished first? From now on then, as far as divination goes, I would not look to my right hand or my left.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:859.1#Oedipus: You are right. But nevertheless send someone to fetch the peasant,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:860.1#and do not neglect this matter.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:861.1#Iocasta: I will send for him without delay. But let us go into the house: I will do nothing which does not please you.<stage>Exeunt Oedipus and Iocasta.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:863.1#Chorus: May destiny still find me winning the praise of reverent purity in all words and
+urn:cts:greekLit:tlg0011.tlg004.fuEng:865.1#deeds sanctioned by those laws of sublime range, called into life through the high clear aether, whose father is Olympus alone. Their parent was no race of mortal men,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:870.1#no, nor shall oblivion ever lay them to sleep: the god is mighty in them, and he does not grow old.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:873.1#Chorus: Insolence breeds the tyrant. Insolence, once vainly stuffed with wealth
+urn:cts:greekLit:tlg0011.tlg004.fuEng:875.1#that is not proper or good for it, when it has scaled the topmost ramparts, is hurled to a dire doom, where one’s feet cannot serve to good advantage. But I pray that the god never
+urn:cts:greekLit:tlg0011.tlg004.fuEng:880.1#quell such rivalry as benefits the state. I will always hold the god as our protector.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:884.1#Chorus: But if any man walks haughtily in deed or word,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:885.1#with no fear of Justice, no reverence for the images of gods, may an evil doom seize him for his ill-starred pride, if he does not gain his advantage fairly,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:890.1#or avoid unholy deeds, but seeks to lay profaning hands on sanctities. Where such things occur, what mortal shall boast any more that he can ward off the arrow of the gods from his life?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:895.1#No. For if such deeds are held in honor, why should we join in the sacred dance?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:897.1#Chorus: No longer will I go reverently to the earth’s central and inviolate shrine, no more to Abae’s temple or to <placeName key="perseus,Olympia" >Olympia,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:900.1#if these oracles do not fit the outcome, so that all mortals shall point at them with their fingers.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:905.1#No, King—if this you are rightly called—Zeus all ruling, may it not escape you and your deathless power! The old prophecies concerning Laius are fading; already men give them no value, and nowhere is Apollo glorified with honors;
+urn:cts:greekLit:tlg0011.tlg004.fuEng:910.1#the worship of the gods is perishing.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:911.1#Iocasta: Princes of the land, I am planning to visit the shrines of the gods, with this wreathed branch and these gifts of incense in my hands. For Oedipus excites his soul excessively with all sorts of grief,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:915.1#as he does not judge the new things from the old, like a man of sense, but is under the control of the speaker, if he speaks of frightful things. Since, then, I can do no good by counsel, to you, Lycean Apollo—for you are nearest—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:920.1#I have come as a suppliant with these symbols of prayer, that you may find us some escape from uncleanliness. For now we are all afraid, like those who see fear in the helmsman of their ship.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:924.stage#Enter a messenger.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:924.1#Messenger: Can you tell me, strangers, where
+urn:cts:greekLit:tlg0011.tlg004.fuEng:925.1#the house of King Oedipus is? Or better still, tell me where he himself is, if you know.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:927.1#Chorus: This is his dwelling, and he himself, stranger, is within. This lady here is the mother of his children.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:929.1#Messenger: Then may she be ever happy in a happy home,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:930.1#since she is his blessed queen.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:931.1#Iocasta: Happiness to you also, stranger! Your fair greeting deserves this. But say what you have come to seek or to tell.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:934.1#Messenger: Good tidings, lady, for your house and your husband.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:935.1#Iocasta: What are they? From whom have you come?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:936.1#Messenger: From Corinth, and at the message I will give now you will doubtless rejoice, though you may perhaps grieve too.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:938.1#Iocasta: What is it? Why has it this double potency?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:939.1#Messenger: The people will make him king of the
+urn:cts:greekLit:tlg0011.tlg004.fuEng:940.1#Isthmian land, as it was said there.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:941.1#Iocasta: How then? Is the aged Polybus no longer in power?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:942.1#Messenger: No. For death holds him in the tomb.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:943.1#Iocasta: What do you mean? Is Polybus dead, old man?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:944.1#Messenger: If I do not speak the truth, I am content to die.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:945.1#Iocasta: Handmaid, away with all speed, and tell this to your master! Oracles of the gods, where do you stand now? It is this man that Oedipus long feared he would slay. And now this man has died in the course of destiny, not by his hand.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:950.stage#Enter Oedipus.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:950.1#Oedipus: Iocasta, dearest wife, why have you summoned me forth from these doors?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:952.1#Iocasta: Hear this man, and judge, as you listen, what the awful oracles have come to.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:954.1#Oedipus: Who is he and what news does he have for me?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:955.1#Iocasta: He comes from Corinth to tell you that your father Polybus lives no longer, but has perished.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:957.1#Oedipus: How, stranger? Let me have it from your own mouth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:958.1#Messenger: If I must first make these tidings plain, know indeed that he is dead and gone.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:960.1#Oedipus: By treachery, or from illness?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:961.1#Messenger: A light tilt of the scale brings the aged to their rest.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:962.1#Oedipus: Ah, he died, it seems, of sickness?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:963.1#Messenger: Yes, and of the long years that he had lived.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:964.1#Oedipus: Alas, alas! Why indeed, my wife, should one look to the
+urn:cts:greekLit:tlg0011.tlg004.fuEng:965.1#hearth of the Pythian seer, or to the birds that scream above our heads, who declared that I was doomed to slay my father? But he is dead, and lies beneath the earth, and here I am, not having put my hand to any spear—unless, perhaps, he died out of longing for me:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:970.1#thus, indeed, I would be the cause of his death. But as the oracles stand, at least, Polybus has swept them with him to his rest in Hades. They are worth nothing.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:973.1#Iocasta: Did I not long ago foretell this to you?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:974.1#Oedipus: You did, but I was mislead by my fear.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:975.1#Iocasta: Now no longer take any of those things to heart.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:976.1#Oedipus: But surely I must fear my mother’s bed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:977.1#Iocasta: What should a mortal man fear, for whom the decrees of Fortune are supreme, and who has clear foresight of nothing? It is best to live at random, as one may.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:980.1#But fear not that you will wed your mother. Many men before now have slept with their mothers in dreams. But he to whom these things are as though nothing bears his life most easily.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:984.1#Oedipus: All these words of yours would have been well said,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:985.1#were my mother not alive. But as it is, since she lives, I must necessarily fear, though you do speak well.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:987.1#Iocasta: Your father’s death is a great sign for us to take cheer.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:988.1#Oedipus: Great, I know. But my fear is of her who lives.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:989.1#Messenger: And who is the woman about whom you fear?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:990.1#Oedipus: Merope, old man, the consort of Polybus.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:991.1#Messenger: And what is it in her that moves your fear?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:992.1#Oedipus: A divine oracle of dread import, stranger.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:993.1#Messenger: Proper, or improper, for another to know?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:994.1#Oedipus: Proper, surely. Loxias once said that I was
+urn:cts:greekLit:tlg0011.tlg004.fuEng:995.1#doomed to marry my own mother, and to shed with my own hands my father’s blood. For which reasons I long shirked my home in Corinth—with a happy outcome, to be sure, but still it is sweet to see the face of one’s parents.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:999.1#Messenger: Was it really for fear of this that you became an exile from that city?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1000.1#Oedipus: And because I did not wish, old man, to be the murderer of my father.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1001.1#Messenger: Why have I not relieved you of this second fear, my lord, since I came to give you pleasure?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1002.1#Oedipus: And indeed you will have worthy thanks from me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1004.1#Messenger: And indeed I came specially for this, that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1005.1#I might profit from your returning home.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1007.1#Oedipus: But by no means will I ever go near my parents again.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1008.1#Messenger: My son, it is crystal clear that you do not know what you are doing.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1009.1#Oedipus: How so, old man? In the name of the gods, tell me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1010.1#Messenger: If on account of this you are fleeing from returning home.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1011.1#Oedipus: Fearing indeed lest Apollo’s prophecy come true in me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1012.1#Messenger: Lest you acquire some pollution from your parents?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1013.1#Oedipus: This very thing, old man, this constantly frightens me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1014.1#Messenger: Do you know, then, that your fears are wholly in vain?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1015.1#Oedipus: How so, if I was born of those parents?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1016.1#Messenger: Because you had no blood in common with Polybus.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1017.1#Oedipus: What are you saying? Was Polybus not my father?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1018.1#Messenger: Just as much, and no more, than he who speaks to you.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1019.1#Oedipus: And how can my father be equal to him who is as though nothing to me?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1020.1#Messenger: But he did not father you, any more than I did.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1021.1#Oedipus: How, then, did he call me his son?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1022.1#Messenger: Long ago he received you as a gift from my hands.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1023.1#Oedipus: And yet he loved me so dearly, who came from another’s hand?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1024.1#Messenger: His former childlessness won him over.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1025.1#Oedipus: And had you bought me or found me by chance, when you gave me to him?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1026.1#Messenger: I found you in Cithaeron’s winding glens.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1027.1#Oedipus: And why were you roaming those regions?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1028.1#Messenger: I was in charge of mountain flocks.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1029.1#Oedipus: What, you were a shepherd—a vagrant hireling?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1030.1#Messenger: But your savior, my son, in that hour.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1031.1#Oedipus: And what was my pain when you took me in your arms?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1032.1#Messenger: The ankles of your feet might bear witness.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1033.1#Oedipus: Ah me, why do you speak of that old trouble?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1034.1#Messenger: I freed you when you had your ankles pinned together.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1035.1#Oedipus: It was a dread brand of shame that I took from my cradle.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1036.1#Messenger: So much so that from that fortune you were called by that name which you still bear.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1037.1#Oedipus: Oh, in the name of the gods, was the deed my mother’s or father’s?  Speak!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1038.1#Messenger: I know not. He who gave you to me knows better of that than I.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1039.1#Oedipus: What, you got me from another? You did not find me yourself?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1040.1#Messenger: No. Another shepherd gave you to me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1041.1#Oedipus: Who was he? Can you tell clearly?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1042.1#Messenger: I think he was said to be one of the household of Laius.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1043.1#Oedipus: The king who ruled this country long ago?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1044.1#Messenger: The same. The man was a herdsman in his service.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1045.1#Oedipus: Is he still alive, that I might see him?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1046.1#Messenger: You natives of this country should know best.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1047.1#Oedipus: Is there any of you here present that knows the herdsman of whom he speaks, having seen him either in the pastures or here in town? Answer!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1050.1#The hour has come for these things to be revealed finally.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1051.1#Chorus: I think he speaks of no other than the peasant you already wanted to see. But our lady Iocasta might best tell you that.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1054.1#Oedipus: Lady, do you know the one whom we summoned just now?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1055.1#Is it of him that this man speaks?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1056.1#Iocasta: Why ask of whom he spoke? Regard it not; waste not a thought on what he said; it would be vain.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1058.1#Oedipus: It must not happen that, with such clues in my grasp, I fail to bring my birth to light.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1060.1#Iocasta: For the gods’ sake, if you have any care for your own life, do not continue this search!  My anguish is enough.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1062.1#Oedipus: Be of good courage. Even if I should be found the son of a servile mother—a slave by three descents—you will not be proven baseborn.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1064.1#Iocasta: Hear me, I implore you: do not do this.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1065.1#Oedipus: I will not hear of not discovering the whole truth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1066.1#Iocasta: Yet I wish you well—I counsel you for the best.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1067.1#Oedipus: These best counsels, then, vex my patience.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1068.1#Iocasta: Oh ill-fated man, may you never know who you are!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1069.1#Oedipus: Go, some one, fetch me the herdsman.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1070.1#Leave this woman to glory in her princely stock.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1071.1#Iocasta: Alas, alas, miserable man—that word alone can I say to you—and no other word ever again.<stage>She rushes into the palace.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1073.1#Chorus: Why has this woman gone, Oedipus, rushing off in wild grief? I fear
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1075.1#a storm of sorrow will soon break forth from this silence.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1076.1#Oedipus: Break forth what will! Be my race ever so lowly, I crave to learn it. That woman perhaps—for she is proud with more than a woman’s pride—feels ashamed of my lowly origin. But I, who hold myself son of Fortune
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1080.1#that gives good, will not be dishonored. She is the mother from whom I spring, and the months, my kinsmen, have marked me sometimes lowly, sometimes great. Such being my heritage, never more can I prove
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1085.1#false to it, or keep from searching out the secret of my birth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1086.1#Chorus: If I am a seer or wise of heart,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1090.1#Cithaeron, you will not fail—by heaven, you will not—to know at tomorrow’s full moon that Oedipus honors you as native to him, as his nurse, and his mother, and that you are celebrated in our dance and song,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1095.1#because you are well-pleasing to our prince. O Phoebus to whom we cry, may these things find favor in your sight!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1098.1#Chorus: Who was it, my son, who of the race whose years are many, that bore you in wedlock with
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1100.1#Pan, the mountain-roaming father? Or was it a bride of Loxias that bore you? For dear to him are all the upland pastures.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1105.1#Or perhaps it was Cyllene’s lord, or the Bacchants’ god, dweller on the hill-tops, that received you, a new-born joy, from one of the nymphs of Helicon, with whom he most often sports.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1110.1#Oedipus: Elders, if it is right for me, who have never met the man, to guess, I think I see the herdsman we have been looking for for a lone time. In his venerable old age he tallies with this stranger’s years, and moreover I recognize those who bring him, I think, as servants of mine.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1115.1#But perhaps you have an advantage in knowledge over me, if you have seen the herdsman before.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1117.1#Chorus: Yes, I know him, be sure. He was in the service of Laius—trusty as any shepherd.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1119.stage#The herdsman is brought in.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1119.1#Oedipus: I ask you first, Corinthian stranger, if this is the man you mean.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1120.1#Messenger: He is, the one you are looking at.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1121.1#Oedipus: You, old man—look this way and answer all that I ask—were you once in the service of Laius?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1123.1#Servant: I was—not a bought slave, but reared in his house.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1124.1#Oedipus: Employed in what labor, or what way of life?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1125.1#Servant: For the better part of my life I tended the flocks.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1126.1#Oedipus: And what regions did you most frequently haunt?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1127.1#Servant: Sometimes Cithaeron, sometimes the neighboring ground.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1128.1#Oedipus: Are you aware of ever having seen this man in these parts?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1129.1#Servant: Doing what? What man do you mean?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1130.1#Oedipus: This man here. Have you ever met him before?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1131.1#Servant: Not so that I could speak at once from memory.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1132.1#Messenger: And no wonder, master. But I will bring clear recollection to his ignorance. I am sure he knows well of the time we dwelled in the region of Cithaeron
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1135.1#for six month periods, from spring to Arcturus, he with two flocks, and I, his comrade, with one. And then for the winter I used to drive my flock to my own fold, and he took his to the fold of Laius.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1140.1#Did any of this happen as I tell it, or did it not?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1141.1#Servant: You speak the truth, though it was long ago.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1142.1#Messenger: Come, tell me now: do you remember having given me a boy in those days, to be reared as my own foster-son?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1144.1#Servant: What now? Why do you ask the question?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1145.1#Messenger: This man, my friend, is he who then was young.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1146.1#Servant: Damn you! Be silent once and for all!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1147.1#Oedipus: Do not rebuke him, old man. Your words need rebuking more than his.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1148.1#Servant: And in what way, most noble master, do I offend?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1150.1#Oedipus: In not telling of the boy about whom he asks.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1151.1#Servant: He speaks without knowledge, but is busy to no purpose.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1152.1#Oedipus: You will not speak with good grace, but will in pain.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1153.1#Servant: No, in the name of the gods, do not mistreat an old man.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1154.1#Oedipus: Someone, quick—tie his hands him this instant!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1155.1#Servant: Alas, why? What do you want to learn?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1156.1#Oedipus: Did you give this man the child about whom he asks?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1157.1#Servant: I did. Would that I had perished that day!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1158.1#Oedipus: Well, you will come to that, unless you tell the honest truth.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1159.1#Servant: But if I speak I will be destroyed all the more.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1160.1#Oedipus: This man is bent, I think, on more delays.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1161.1#Servant: No, no! I said before that I gave it to him.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1162.1#Oedipus: Where did you get it from? From your own house, or from another?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1163.1#Servant: It was not my own: I received it from another.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1164.1#Oedipus: From whom of the citizens here? From what home?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1165.1#Servant: For the love of the gods, master, ask no more!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1166.1#Oedipus: You are dead if I have to question you again.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1167.1#Servant: It was a child, then, of the house of Laius.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1168.1#Oedipus: A slave? Or one of his own clan?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1169.1#Servant: Alas! I am on the brink of speaking the dreaded words.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1170.1#Oedipus: And I of hearing: I must hear nevertheless.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1171.1#Servant: You must know then, that it was said to be his own child. But your lady within could say best how these matters lie.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1173.1#Oedipus: How? Did she give it to you?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1173.2#Servant: Yes, my lord.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1174.1#Oedipus: For what purpose?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1174.2#Servant: That I should do away with it.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1175.1#Oedipus: Her own child, the wretched woman?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1175.2#Servant: Yes, from fear of the evil prophecies.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1176.1#Oedipus: What were they?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1176.2#Servant: The tale ran that he would slay his father.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1177.1#Oedipus: Why, then, did you give him to this old man?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1178.1#Servant: Out of pity, master, thinking that he would carry him to another land, from where he himself came. But he saved him for the direst woe.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1180.1#For if you are what this man says, be certain that you were born ill-fated.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1182.1#Oedipus: Oh, oh! All brought to pass, all true. Light, may I now look on you for the last time—I who have been found to be accursed in birth,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1185.1#accursed in wedlock, accursed in the shedding of blood.<stage>He rushes into the palace.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1186.1#Chorus: Alas, generations of mortals, how mere a shadow I count your life! Where, where is the mortal who
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1190.1#attains a happiness which is more than apparent and doomed to fall away to nothing? Your fate warns me—yours, unhappy Oedipus—to call no
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1195.1#earthly creature blessed.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1196.1#Chorus: For he, O Zeus, shot his shaft with peerless skill, and won the prize of an all-prosperous fortune, having slain the maiden with crooked talons, who sang darkly.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1200.1#He arose for our land like a tower against death. And from that time, Oedipus, you have been called our king, and have been honored supremely, holding power in great Thebes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1204.1#Chorus: But now whose story is more grievous in men’s ears?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1205.1#Who is a more wretched slave to fierce plagues and troubles, with all his life reversed? Alas, renowned Oedipus! The same bounteous harbor was sufficient for you, both as child and as father, to make your nuptial couch in. Oh, how can the soil
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1210.1#in which your father sowed, unhappy man, have endured you in silence for so long?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1212.1#Chorus: Time the all-seeing has found you out, against your will: he judges the monstrous marriage in which
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1215.1#parent and child have long been one. Alas, child of Laius, would that I had never seen you. I wail as one who pours a dirge from his lips.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1220.1#It was you who gave me new life, to speak directly, and through you darkness has fallen upon my eyes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1223.stage#A second messenger enters from the house.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1223.1#Second Messenger: You who are most honored in this land, what deeds you will hear, what deeds you will behold, what burden of sorrow will be yours,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1225.1#if, true to your race, you still care for the house of Labdacus. For I think that neither the Ister nor the Phasis could wash this house clean, so many are the ills that it shrouds, or will soon bring to light, ills wrought not unwittingly, but on purpose.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1230.1#And those griefs smart the most which are seen to be of our own choice.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1232.1#Chorus: Indeed the troubles which we knew before are far from being easy to bear. Besides them, what do you have to announce?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1234.1#Second Messenger: This is the shortest tale to tell and hear:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1235.1#our royal lady Iocasta is dead.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1236.1#Chorus: Alas, wretched lady! From what cause?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1237.1#Second Messenger: By her own hand. You will not suffer the worst part of the painful event, since you do not behold the events. Nevertheless, so far as my memory serves,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1240.1#you will learn that unhappy woman’s fate. When, frantic, she passed within the vestibule, she rushed straight towards her marriage couch, clutching her hair with the fingers of both hands. Once within the chamber,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1245.1#she dashed the doors together behind her, then called on the name of Laius, long since a corpse, thinking of that son, born long ago, by whose hand the father was slain, leaving the mother to breed accursed offspring with his own child. And she bewailed the marriage in which, wretched woman, she had given birth to a twofold brood,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1250.1#husband by husband, children by her child. And how she perished is more than I know. For with a shriek Oedipus burst in, and did not allow us to watch her woe until the end: on him, as he rushed around, our eyes were set.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1255.1#To and fro he went, asking us to give him a sword, asking where he could find the wife who was no wife, but a mother whose womb had borne both him and his children. And in his frenzy a power greater than mortal man was his guide, for it was none of us mortals who were near.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1260.1#With a dread cry, as though someone beckoned him on, he sprang at the double doors, forced the bending bolts from the sockets, and rushed into the room. There we beheld the woman hanging by the neck in a twisted noose of swinging cords.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1265.1#And when he saw her, with a dread deep cry he released the halter by which she hung. And when the hapless woman was stretched out on the ground, then the sequel was horrible to see: for he tore from her raiment the golden brooches with which she had decorated herself,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1270.1#and lifting them struck his own eye-balls, uttering words like these: No longer will you behold such horrors as I was suffering and performing! Long enough have you looked on those whom you ought never to have seen, having failed in the knowledge of those whom I yearned to know—henceforth you shall be dark!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1275.1#With such a dire refrain, he struck his eyes with raised hand not once but often. At each blow the bloody eye-balls bedewed his beard, and sent forth not sluggish drops of gore, but all at once a dark shower of blood came down like hail.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1280.1#From the deeds of the two of them such ills have broken forth, not on one alone, but with mingled woe for man and wife. The old happiness of their ancestral fortune was once happiness indeed. But now today lamentation, ruin, death, shame, 
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1285.1#and every earthly ill that anyone could name are all theirs.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1286.1#Chorus: And does the sufferer have any respite from pain now?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1287.1#Second Messenger: He cries for some one to unbar the gates and show to all the Cadmeans his father’s slayer, his mother’s—the words must not pass my lips—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1290.1#in order to banish himself from the land and not to put the house under his own curse by waiting here. And yet he lacks strength, and one to guide his steps, for the anguish is more than he can bear. He will soon show this to you: look, the bars of the gates are withdrawn,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1295.1#and soon you will behold a sight which even he who abhors it must pity.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1297.1#Chorus: O dread fate for men to see, O most dreadful of all that I have set my eyes on! Unhappy one, what madness has come upon you?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1300.1#Who is the unearthly foe who, with a leap of more than mortal range has made your ill-starred life his prey? Alas, alas, you hapless man! I cannot even look on you, though there is much I desire to ask, much I desire to learn,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1305.1#much that draws my wistful gaze: with such a shuddering do you fill me!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1308.1#Oedipus: Woe is me! Alas, alas, wretched that I am! Where, where am I carried in my misery?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1310.1#How is my voice swept abroad on the wings of the air? Oh, my fate, how far you have sprung!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1312.1#Chorus: To a dread place, dire in men’s ears, dire in their sight.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1313.1#Oedipus: Oh horror of darkness that enfolds me, unspeakable visitant,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1315.1#resistless, sped by a wind too favorable! Oh, me! and once again, Oh, me! How my soul is pierced by the stab of these goads and by the memory of sorrows!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1319.1#Chorus: No wonder that amidst these woes
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1320.1#you mourn and bear a double pain.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1321.1#Oedipus: Ah, friend, you still are steadfast in your care for me, and still have patience to tend to the blind man! Ah, me!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1325.1#Your presence is not hidden from me—no, blind though I am, nevertheless I know your voice full well.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1327.1#Chorus: Man of dread deeds, how could you quench your vision in this way? What divinity urged you on?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1329.1#Oedipus: It was Apollo, friends, Apollo who brought these troubles
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1330.1#to pass, these terrible, terrible troubles. But the hand that struck my eyes was none other than my own, wretched that I am!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1335.1#Why should I see, when sight showed me nothing sweet?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1336.1#Chorus: These things were just as you say.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1337.1#Oedipus: What, my friends, can I behold anymore, what can I love, what greeting can touch my ear with joy? Hurry, friends,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1340.1#lead me from the land, lead me from here, the utterly lost,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1345.1#the thrice-accursed, the mortal most hateful to the gods!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1347.1#Chorus: Wretched alike for your fortune and for your understanding of it, would that I had never known you!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1349.1#Oedipus: Perish the man, whoever he was, who freed me in the past years from the cruel shackle on my feet—a thankless deed! Had I died then,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1355.1#I would not have been so sore a grief to my friends and to my own soul.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1356.1#Chorus: I too would have had it thus.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1357.1#Oedipus: In this way I would not have come to shed my father’s blood, or been known among men as the husband of the woman from whom I was born.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1360.1#Now I am forsaken by the gods, son of a defiled mother, successor to the bed of the man who gave me my own wretched being:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1365.1#if there is a woe surpassing all woes, it has become Oedipus’ lot.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1367.1#Chorus: I cannot agree that you have counseled well: you would have been better dead than living and blind.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1369.1#Oedipus: Do not tell me that things have not been best done in this way:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1370.1#give me counsel no more. If I had sight, I know not with what eyes I could even have looked on my father, when I came to the house of Hades, or on my miserable mother, since against both I have sinned such sins as hanging myself could not punish.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1375.1#But do you think that the sight of children, born as mine were, was lovely for me to look upon? No, no, never lovely to my eyes! No, neither was this town with its towering walls, nor the sacred statues of the gods, since I, thrice wretched that I am—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1380.1#I, noblest of the sons of Thebes—have doomed myself to know them no more by commanding that all should reject the impious one, the one whom the gods have revealed as unholy, a member of Laius’ own race! After bearing such a stain upon myself,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1385.1#was I to look with steady eyes on this folk? No indeed: were there a way to choke the source of hearing, I would not have hesitated to make a fast prison of this wretched frame, so that I should have known neither sight nor sound.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1390.1#It is sweet for our thought to dwell beyond the sphere of grief. Alas, Cithaeron, why did you provide a shelter for me? When I was given to you, why did you not slay me straightway, that I might never reveal my origin to men. Ah, Polybus, ah, Corinth, and you that were called the ancient house of my father,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1395.1#how fair-seeming was I, your nurseling, and what evils were festering underneath! Now I am found to be evil and of evil birth. Oh you three roads, and you secret glen, you, thicket, and narrow way where three paths met—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1400.1#you who drank my father’s blood from my own hands—do you remember, perhaps, what deeds I have performed in your sight, and then what fresh deeds I went on to do when I came here? Oh marriage rites, you gave me birth, and when you had brought me forth,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1405.1#you again bore children to your child, you created an incestuous kinship of fathers, brothers, sons, brides, wives, and mothers—all the foulest deeds that are wrought among men! But it is improper to mention what it is improper to do—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1410.1#hurry, for the love of the gods, hide me somewhere beyond the land, or slay me, or cast me into the sea, where you will never behold me any longer! Approach—deign to lay your hands on a wretched man—listen and fear not: my plague can rest
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1415.1#on no other mortal.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1416.1#Chorus: But here is Creon in good time to plan and perform that which you request. He alone is left to guard the land in your place.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1419.1#Oedipus: Ah, me, how will I address him?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1420.1#What claim to credence can be shown on my part? For in the past I proved to be wholly false to him.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1422.stage#Enter Creon.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1422.1#Creon: I have not come to mock or reproach you with any any past fault.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1424.stage#To the Attendants.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1424.1#But you, if you no longer respect the children of men,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1425.1#revere at least the all-nurturing flame of our lord the Sun, and don’t show so openly such a pollution as this, one which neither earth, nor holy rain, nor the light itself can welcome. Take him into the house as quickly as you can: it best accords with pity that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1430.1#kinfolk alone should see and hear a kinsman’s woes.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1432.1#Oedipus: For the gods’ love—since you have done a gentle violence to my prediction and come in a spirit so noble to me, a man most vile—grant me a favor: I will speak for your own good, not mine.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1435.1#Creon: And what do you wish so eagerly to get from me?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1436.1#Oedipus: Cast me out of this land with all speed, to a place where no mortal shall be found to greet me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1438.1#Creon: This I could have done, to be sure, except I craved first to learn from the god all my duty.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1440.1#Oedipus: But his pronouncement has been set forth in full—to let me perish, the parricide, unholy one that I am.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1442.1#Creon: Thus it was said. But since we have come to such a pass, it is better to learn clearly what should be done.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1444.1#Oedipus: Will you, then, seek a response on behalf of such a wretch as I?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1445.1#Creon: Yes, for even you yourself will now surely put faith in the god.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1446.1#Oedipus: Yes. And on you I lay this charge, to you I make this entreaty: give to the woman within such burial as you wish—you will properly render the last rites to your own. But never let this city of my father be condemned
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1450.1#to have me dwelling within, as long as I live. No, allow me to live in the hills, where Cithaeron, famed as mine, sits, which my mother and father, while they lived, fixed as my appointed tomb, so that I may die according to the decree of those who sought to slay me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1455.1#And yet I know this much, that neither sickness nor anything else can destroy me; for I would never have been snatched from death, except in order to suffer some strange doom.  But let my fate go where it will. Regarding my children, Creon, I beg you to take no care of my sons:
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1460.1#they are men, so that they will never lack the means to live wherever they should be. My two girls, poor hapless ones—who never knew my table spread separately, or lacked their father’s presence, but always had a share of all that
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1465.1#reached my hands—I implore you to take care of them. And, if you can, allow me to touch them with my hands, and to indulge my grief. Grant it, prince, grant it, noble heart. Ah, if I could but once touch them with my hands, I would think that I had them
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1470.1#just as when I had sight.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1471.stage#Creon’s Attendants lead in the children, Antigone and Ismene.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1471.1#What is this? Oh, gods, can it be my loved ones that I hear sobbing, can Creon have taken pity on me and sent my children, my darlings?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1475.1#Am I right?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1476.1#Creon: You are. I have brought this about, for I knew the joy which you have long had from them—the joy you now have.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1478.1#Oedipus: Bless you, and for this errand may the god prove a kinder guardian to you than he has to me.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1480.1#My children, where are you? Come, here, here to the hands of the one whose mother was your own, the hands that have made your father’s once bright eyes to be such orbs as these—his, who seeing nothing, knowing nothing,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1485.1#became your father by her from whom he was born! For you also do I weep, though I cannot see you, when I think of the bitter life that men will make you live in days to come. To what company of the citizens will you go, to what festival,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1490.1#from which you will not return home in tears, not sharing in the holiday? But when you reach a ripe age for marriage, who shall he be, who shall be the man, my daughters, to risk taking upon himself the reproaches
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1495.1#that will certainly be baneful to my offspring and yours? What misery is lacking? Your father killed his own father, and bore you from the source of his own being!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1500.1#Such are the taunts that will be cast at you. And who then will wed you? The man does not live, no, it cannot be, my children, but you will wither in barren maidenhood. Son of Menoeceus, hear me: since you are the only father left to them—we, their parents, are both gone—
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1505.1#do not allow them to wander poor and unwed, for they are your own kin, nor abase them to the level of my woes. Pity them, seeing them deprived of everything but you at such an age.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1510.1#Promise, noble man, and touch them with your hand. To you, children, I would have given much counsel, if your minds were mature. But now pray that you may live where occasion allows, and that the life which is your lot may be happier than your father’s.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1515.1#Creon: Your grief has had a sufficient scope: move on into the house.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1516.1#Oedipus: I must obey, though I do it in no way gladly.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1516.2#Creon: Yes, for it is in season that all things are good.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1517.1#Oedipus: Do you know on what terms I will go?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1517.2#Creon: You will tell me, and then I will know when I have heard them.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1518.1#Oedipus: See that you send me to dwell outside this land.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1518.2#Creon: You ask for what the god must give.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1519.1#Oedipus: But to the gods I have become most hateful.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1519.2#Creon: Then you will quickly get your wish.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1520.1#Oedipus: So you consent?
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1520.2#Creon: It is not my way to say idly what I do not mean.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1521.1#Oedipus: Then it is time to lead me away.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1521.2#Creon: Come, then, but let your children go.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1522.1#Oedipus: No, do not take them from me!
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1523.1#Creon: Do not wish to be master in all things: the mastery which you did attain has not followed you through life.
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1524.1#Chorus: Residents of our native Thebes, behold, this is Oedipus,
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1525.1#who knew the renowned riddle, and was a most mighty man. What citizen did not gaze on his fortune with envy? See into what a stormy sea of troubles he has come! Therefore, while our eyes wait to see the final destined day, we must call no mortal happy until
+urn:cts:greekLit:tlg0011.tlg004.fuEng:1530.1#he has crossed life’s border free from pain.
