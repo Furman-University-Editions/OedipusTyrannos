@@ -6,7 +6,7 @@
 
 [Do Translation-alignment on the *OT*](http://folio2.furman.edu/ot/ducat.html?urn=urn:cts:greekLit:tlg0011.tlg004.fu.token:1-15&urn=urn:cts:greekLit:tlg0011.tlg004.fuEng.token:1-10&urn=)
 
-[Explore and analyze the text of the *OT*]()
+[Explore and analyze the text of the *OT*](http://folio2.furman.edu/ot/cite.html?urn=urn:cts:greekLit:tlg0011.tlg004.fu:1-13)
 
 ## Version 
 
